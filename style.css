@@ -133,21 +133,21 @@ button:active{
  width:500px;
 } 
 .about-text p:nth-child(1){
- color:#403e3e;
+ color:#274472;
  font-family: myriad pro;
  font-weight:bold;
  font-size:23px;
  line-height:0px;
 }
 .about-text p:nth-child(2){
- color:#3e3d3d;
+ color:#274472;
  font-size:13px;
  font-family: myriad pro;
  font-weight:bold;
  line-height:5px;
 }
 .about-text p:nth-child(3),.about-text p:nth-child(4){
- color:#7e7d7d;
+ color:#41729F;
  font-family:calibri;
  font-size:16px;
 }
@@ -169,19 +169,19 @@ button:active{
 .services-text p:nth-child(1){
  font-family: calibri;
  font-weight:bold;
- color:#1d1c1c;
+ color:#274472;
  font-size:30px;
  line-height:0px;
 }
 .services-text p:nth-child(2){
  font-family:calibri;
  font-weight: bold;
- color:#3e3d3d;
+ color:#41729F;
  font-size: 15px;
  line-height: 5px;
 }
 .services-text p:nth-child(3){font-family:calibri;
-color:#7e7d7d;
+color:#5885AF;
 font-size: 14px;}
 .services-text{
  width: 500px;
@@ -222,6 +222,7 @@ font-size: 14px;}
  height:40px;
  border-radius:50%;
  background-color:#ffffff;
+ color:#274472;
  display: flex;
  justify-content: center;
  align-items:center;
@@ -231,7 +232,7 @@ font-size: 14px;}
 .box-1 p:nth-child(2),
 .box-2 p:nth-child(2),
 .box-3 p:nth-child(2){
- color:#FFFFFF;
+ color:#274472;
  font-family: calibri;
  font-size: 23px;
  line-height:0px;
@@ -240,7 +241,7 @@ font-size: 14px;}
 .box-2 p:nth-child(3),
 .box-3 p:nth-child(3){
  font-family: calibri;
- color:#8F8F8F;
+ color:#5885AF;
  text-align:center;
  width: 230px;
  margin:0px 0px 20px 0px;
@@ -251,6 +252,7 @@ font-size: 14px;}
  width:100px;
  height:30px;
  background-color:#FFFFFF;
+ color: #274472;
  border:none;
  outline: none;
  border-radius:5px;
